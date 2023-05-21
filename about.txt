@@ -1,0 +1,8 @@
+knn algo
+
+step1 = collect data
+step2 = face recognition
+
+scikit
+
+knn = nearest value from vector to new value
